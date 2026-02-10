@@ -1,2 +1,3 @@
 # java-backend
-practice course
+->practice course
+->Learning about backend systems.
