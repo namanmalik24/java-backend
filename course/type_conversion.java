@@ -6,5 +6,15 @@ class type_conversion{
 
             System.out.println(a);
             System.out.println(b);
+
+            int t=5;
+
+            if(t>0)
+            {
+                System.out.println("Positive");
+            }
+            else{
+                System.out.println("Negative");
+            }
         }
 }
