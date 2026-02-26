@@ -10,6 +10,7 @@ app.use(express.static(path.join(__dirname, 'public')))
 app.get('/', (req, res) => {
     res.send(`
         <h1>Random Image Below 👇</h1>
+        <h2>hi</h2>
         <img src="/image.jpg" width="400"/>
     `)
 })
